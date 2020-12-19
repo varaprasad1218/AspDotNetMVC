@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/varun.Bookstore/.vs/varun.Bookstore
+/varun.Bookstore/varun.Bookstore/bin/Debug/netcoreapp3.1
+/varun.Bookstore/varun.Bookstore/obj
